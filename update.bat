@@ -17,6 +17,7 @@ for /d %%D in (*) do (
         echo [%%D] git fetch
         pushd "%%D"
         git fetch
+	git pull
         popd
     ) else (
         echo.
