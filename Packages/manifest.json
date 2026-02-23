@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "com.1506022022.field_editor_tool": "https://github.com/1506022022/FieldEditorTool.git",
     "com.autodesk.fbx": "5.1.1",
     "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
     "com.unity.2d.sprite": "1.0.0",
